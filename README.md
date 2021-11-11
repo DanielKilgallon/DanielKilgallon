@@ -1,5 +1,5 @@
 ### Hi there! 👋
-#### I am open-source enthusiast and contributor who loves teaching, learning, and coding!
+#### I am an open-source contributor who loves teaching, learning, and coding!
 
 ---
 
