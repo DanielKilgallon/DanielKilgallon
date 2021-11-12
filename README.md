@@ -3,8 +3,8 @@ struct SoftwareDeveloper {
   pronouns:  String,
   username:  String,
   email:     String,
-  languages: [String; 3],
-  goal: String,
+  languages:[String; 3],
+  goal:      String,
 }
 
 fn main() {
