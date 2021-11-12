@@ -10,7 +10,7 @@ struct SoftwareDeveloper {
 fn main() {
   let danny = SoftwareDeveloper {
     pronouns: String::from("he/him"),
-		username: String::from("DanielKilgallon"),
+    username: String::from("DanielKilgallon"),
     email: String::from("danielkilgallon2@gmail.com"),
     languages: [
       String::from("Rust"),
