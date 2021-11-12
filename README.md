@@ -1,12 +1,4 @@
 ```Rust
-struct SoftwareDeveloper {
-  pronouns:  String,
-  username:  String,
-  email:     String,
-  languages:[String; 3],
-  goal:      String,
-}
-
 fn main() {
   let danny = SoftwareDeveloper {
     pronouns: String::from("he/him"),
@@ -19,6 +11,14 @@ fn main() {
     ],
     goal: String::from("To contribute to open source!"),
   };
+}
+
+struct SoftwareDeveloper {
+  pronouns:  String,
+  username:  String,
+  email:     String,
+  languages:[String; 3],
+  goal:      String,
 }
 ```
 
